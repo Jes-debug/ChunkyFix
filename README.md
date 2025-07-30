@@ -1,4 +1,5 @@
-# Chunky
+# ChunkyFix
+ChunkyFix is a fork of Chunky that aims to resolve the high ram usage, errors regarding setting worldborder size, progess halting, and many more improvements.
 
 ![chunkylogo](https://user-images.githubusercontent.com/17698576/171119146-122497e4-7527-438b-8f8e-c1c04c2841b9.jpg)
 
